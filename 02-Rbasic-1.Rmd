@@ -5,6 +5,7 @@
 
 ## Terminology
 
+- hakjun hakjun
 - Session: R 언어 실행 환경 
 - Console: 명령어 입력하는 창 
 - Code: R 프로그래밍 변수/제어문 모음 
