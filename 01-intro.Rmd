@@ -4,6 +4,8 @@
 
 * https://youtu.be/wlzwYtHu2xA
 
+- hakjun hakjun
+
 ## What is R / Rstudio 
 
 ![](images/01/r.jpg)
